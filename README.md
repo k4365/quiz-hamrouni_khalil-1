@@ -31,5 +31,13 @@ score will be shown at the end of the game.
 
 ## Contributing
 
-If you have suggestions or improvements, feel free to contribute! Fork the repository, make your 
-changes, and submit a pull request.
+
+Your contributions are welcome! If you have suggestions or improvements, please follow these steps:
+
+1. **Fork the repository**: Click the "Fork" button on the top right corner of the repository page.
+
+2. **Make your changes**: Clone your fork, create a new branch, make and commit your changes.
+
+3. **Submit a Pull Request**: Push your changes to your fork and then submit a pull request from your fork back to the main repository.
+
+For more detailed instructions, please read [CONTRIBUTING.md](CONTRIBUTING.md) .
